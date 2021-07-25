@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 present=1
 absent=0
 check=$((RANDOM % 2))
