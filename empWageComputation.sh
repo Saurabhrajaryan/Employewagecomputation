@@ -1,6 +1,7 @@
 #!/bin/bash -x
 declare -A dailyWage
 
+
 present=1
 present_half=2
 hourlyWage=20
